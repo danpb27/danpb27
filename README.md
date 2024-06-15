@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and videogames
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on backend, as well as, frontend projects
-- 📫 How to reach me Email: danielpantob13@gmail.com
+- 📫 How to reach me Email: danielpantojab13@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
